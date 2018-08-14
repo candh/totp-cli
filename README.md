@@ -7,7 +7,9 @@ Basically does what the Google Authenticator app does on the phone. Except you l
 [![asciicast](https://asciinema.org/a/J97WpvLhG00ekGjEOhUDUqedW.png)](https://asciinema.org/a/J97WpvLhG00ekGjEOhUDUqedW)
 
 # Installation
-pip installation coming soon once i register the package. For now you could just run setup.py.
+```bash
+pip3 install totp-cli
+```
 
 # Usage
 Get secrets from 2FA settings page of the website that you're trying to add.
