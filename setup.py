@@ -17,6 +17,7 @@ setup(
   author='Haider Ali Khichi',
   author_email='khichihaider@gmail.com',
   license='MIT',
+  url='https://github.com/candh/totp-cli',
   keywords='totp otp 2fa cli tools two factor authentication google authenticator',
   install_requires=['termcolor', 'tinydb', 'keyring', 'pyotp'],
   packages=['totpauth'],
