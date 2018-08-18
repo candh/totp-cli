@@ -25,5 +25,5 @@ All the secrets are stored in system keyring so they remain safe.
 Information like name, issuer and email are stored in plaintext locally. Name is used for look up in the keyring. Email and Issuer are only there to help you distinguish.
 
 # Notes
-Tested with facebook & bitbucket.
+Tested with facebook, twitter & bitbucket.
 Tested only on MacOS. Should work on other platforms too..
